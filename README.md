@@ -1,5 +1,4 @@
 # Connecticut Real Estate
-A Python analysis of the Connecticut residential real estate market trends from 2011 to 2021.
 This project uses Python via Jupyter notebooks to analyze market trends of Connecticut's residential real estate as a capstone project for CareerFoundry's Data Analytics Immersion program.
 ## Overview
 Numerous factors contribute to the final selling price of a piece of real estate. Being able to accurately predict a property's selling price can be a huge boon to sellers, buyers, realtors, and more.
